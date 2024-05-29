@@ -36,6 +36,16 @@
             "projectName": "employeeserice",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ApigetwayApplication<apigetway>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.vietanh.apigetway.ApigetwayApplication",
+            "projectName": "apigetway",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
