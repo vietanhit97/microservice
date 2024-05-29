@@ -12,6 +12,8 @@ import com.vietanh.bookservice.command.command.UpdateBookCommand;
 import com.vietanh.bookservice.command.event.BookCreatedEvent;
 import com.vietanh.bookservice.command.event.BookDeleteEvent;
 import com.vietanh.bookservice.command.event.BookUpdateEvent;
+
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
